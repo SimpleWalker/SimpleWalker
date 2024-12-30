@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Required account
-Public projects are here
+- Required account.
+- Public projects are here.
 
 <!--
 **SimpleWalker/SimpleWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
